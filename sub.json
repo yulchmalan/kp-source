@@ -46,21 +46,5 @@
             "Offline Viewing": "Yes, for all titles.",
             "Family Sharing": "Yes, up to 6 family members."
         }
-    },
-    {
-        "name": "nah",
-        "priceMonth": "$14.99/Month",
-        "priceYear": "$149.99/Year",
-        "features": {
-            "Free Trail": "7 Days",
-            "Content": "Access to the widest selection of movies and shows, including all new releases and Offline Viewing",
-            "Devices": "Watch on Four devices simultaneously",
-            "Cancel Anytime": "Yes",
-            "HDR": "Yes",
-            "Dolby Atmos": "Yes",
-            "Ad - Free": "Yes",
-            "Offline Viewing": "Yes, for all titles.",
-            "Family Sharing": "Yes, up to 6 family members."
-        }
     }
 ]
