@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Basic",
+        "price": "$9.99/Month",
+        "features": {
+            "Free Trail": "7 Days",
+            "Content": "Access to a wide selection of movies and shows, including some new releases.",
+            "Devices": "Watch on one device simultaneously",
+            "Cancel Anytime": "Yes",
+            "HDR": "No",
+            "Dolby Atmos": "No",
+            "Ad - Free": "No",
+            "Offline Viewing": "No",
+            "Family Sharing": "No"
+        }
+    },
+    {
+        "name": "Standard",
+        "price": "$12.99/Month",
+        "features": {
+            "Free Trail": "7 Days",
+            "Content": "Access to a wider selection of movies and shows, including most new releases and exclusive content",
+            "Devices": "Watch on Two devices simultaneously",
+            "Cancel Anytime": "Yes",
+            "HDR": "Yes",
+            "Dolby Atmos": "Yes",
+            "Ad - Free": "Yes",
+            "Offline Viewing": "Yes, for select titles.",
+            "Family Sharing": "Yes, up to 5 family members."
+        }
+    },
+    {
+        "name": "Premium",
+        "price": "$14.99/Month",
+        "features": {
+            "Free Trail": "7 Days",
+            "Content": "Access to the widest selection of movies and shows, including all new releases and Offline Viewing",
+            "Devices": "Watch on Four devices simultaneously",
+            "Cancel Anytime": "Yes",
+            "HDR": "Yes",
+            "Dolby Atmos": "Yes",
+            "Ad - Free": "Yes",
+            "Offline Viewing": "Yes, for all titles.",
+            "Family Sharing": "Yes, up to 6 family members."
+        }
+    }
+]
