@@ -1,32 +1,28 @@
 {
     "faq": [
-      {
-        "question": "What is StreamVibe?",
-        "answer": "StreamVibe is a streaming service that allows you to watch movies and shows on demand."
-      },
-      {
-        "question": "How much does StreamVibe cost?",
-        "answer": "StreamVibe offers various subscription plans tailored to your needs."
-      },
-      {
-        "question": "How do I sign up for StreamVibe?",
-        "answer": "You can sign up for StreamVibe on our official website."
-      },
-      {
-        "question": "What is the StreamVibe free trial?",
-        "answer": "The free trial gives you access to all features for 7 days."
-      },
-      {
-        "question": "How do I contact StreamVibe customer support?",
-        "answer": "You can contact our support team via email or live chat."
-      },
-      {
-        "question": "What content is available on StreamVibe?",
-        "answer": "StreamVibe provides movies, TV shows, and exclusive content."
-      },
-      {
-        "question": "What content is available on StreamVibe?",
-        "answer": "StreamVibe provides movies, TV shows, and exclusive content."
-      }
+        {
+            "question": "Що таке StreamVibe?",
+            "answer": "StreamVibe — це стрімінговий сервіс, який дозволяє переглядати фільми та шоу на вимогу."
+        },
+        {
+            "question": "Скільки коштує StreamVibe?",
+            "answer": "StreamVibe пропонує різні тарифні плани, які відповідають вашим потребам."
+        },
+        {
+            "question": "Як зареєструватися на StreamVibe?",
+            "answer": "Ви можете зареєструватися на StreamVibe через наш офіційний вебсайт."
+        },
+        {
+            "question": "Що таке безкоштовний пробний період StreamVibe?",
+            "answer": "Безкоштовний пробний період дає доступ до всіх функцій на 7 днів."
+        },
+        {
+            "question": "Як я можу зв’язатися зі службою підтримки StreamVibe?",
+            "answer": "Ви можете зв’язатися з нашою службою підтримки через електронну пошту або онлайн-чат."
+        },
+        {
+            "question": "Який контент доступний на StreamVibe?",
+            "answer": "StreamVibe пропонує фільми, серіали та ексклюзивний контент."
+        }
     ]
 }
